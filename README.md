@@ -4,6 +4,7 @@
 - 📫 How to reach me: [linkedin.com/in/joshspitzerresnick/](linkedin.com/in/joshspitzerresnick/)
 
 ![](https://komarev.com/ghpvc/?username=joshspitzerresnick&color=blueviolet)
+![](https://hit.yhype.me/github/profile?user_id=19559740)
 
 <!---
 joshspitzerresnick/joshspitzerresnick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
