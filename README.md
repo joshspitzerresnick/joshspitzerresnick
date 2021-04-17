@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Josh Spitzer-Resnick, a CS grad student at the University of Minnesota - Twin Cities
+- 👋 Hi, I’m Josh Spitzer-Resnick, a CS grad student at the University of Minnesota - Twin Cities (most of my work is on github.umn.edu, some projects uploaded here)
 - 👀 I’m interested in machine learning, data engineering at scale, and distributed computing
 - 🌱 I’m currently learning machine learning algorithms, heuristic search algorithms, and user interface design / implementation / evaluation
 - 📫 How to reach me: linkedin.com/in/joshspitzerresnick/
